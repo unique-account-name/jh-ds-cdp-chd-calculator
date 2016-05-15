@@ -1,0 +1,15 @@
+---
+title: "Instructions for CHD Calculator"
+author: "R. P. Ruiz"
+date: "May 15, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Instructions for CHD Calculator
+This is where you'll find something that amounts to "just play w/ the widgets"
+
+<a href="../">Back</a> to CHD Calculator

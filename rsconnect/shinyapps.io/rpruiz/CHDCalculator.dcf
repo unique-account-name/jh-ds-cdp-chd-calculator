@@ -1,0 +1,10 @@
+name: CHDCalculator
+account: rpruiz
+server: shinyapps.io
+appId: 102246
+bundleId: 452258
+url: https://rpruiz.shinyapps.io/CHDCalculator/
+when: 1463334045.86063
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: heart-00.R|www/instructions.Rmd
