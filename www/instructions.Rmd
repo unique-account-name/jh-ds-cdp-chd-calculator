@@ -1,5 +1,5 @@
 ---
-title: "Instructions for CHD Calculator"
+title: "Instructions for CHD Calculator Prototype"
 author: "R. P. Ruiz"
 date: "May 15, 2016"
 output: html_document
@@ -9,7 +9,16 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Instructions for CHD Calculator
-This is where you'll find something that amounts to "just play w/ the widgets"
+## It's Pretty Simple
+
+This Coronary Heart Disease risk calculator prototype affords you automatic updating of your 10 year predicted CHD risk.
+
+It also allows you to see what the average risk is for your demographic group (gender and age), in addition to placing your CHD risk in the context of what's the least risk possible given your gender and age.
+
+Simply adjust each of the parameter widgets to see how they affect your 10 year risk window.
+
+Note:  All mitigating factors and recommendations listed are to be considered "serving suggestions"", they *are not* intended to be considered a substitute for an experienced health care professional's advice. 
+
+Prediction algorithm and data subset analysis based on <a href="http://www.framinghamheartstudy.org/">Framingham heart study</a>.
 
 <a href="../">Back</a> to CHD Calculator
